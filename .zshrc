@@ -26,9 +26,6 @@ alias egrep="egrep --color=auto"
 alias ~="cd ~"
 alias ..="cd .."
 
-#autosuggestions
-source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
-
 # Keep 1000 lines of history within the shell and save it to ~/.zsh_history:
 HISTSIZE=1000
 SAVEHIST=1000
@@ -37,6 +34,8 @@ HISTFILE=~/.zsh_history
 # Use modern completion system
 autoload -Uz compinit
 compinit
+#autosuggestions
+source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 zstyle ':completion:*' auto-description 'specify: %d'
 zstyle ':completion:*' completer _expand _complete _correct _approximate
