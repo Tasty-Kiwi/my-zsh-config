@@ -1,6 +1,6 @@
-====== my-zsh-config ======
+=========== my-zsh-config ============
 To install it: type: [git clone https://github.com/PapuasinisPingvinas/my-zsh-config.git]
 It also reccomended to install zsh-autosuggestions, so type: [git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions]
 The source line is already present in the .zshrc.
 If you don't want to use it just comment 30th line.
-==== Made by NotGentoo ====
+==== Made by Papuasinis Pingvinas ====
