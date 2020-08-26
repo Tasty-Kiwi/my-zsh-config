@@ -4,5 +4,5 @@ It is also reccomended to install zsh-autosuggestions, so type: [git clone https
 It is also reccomended to install zsh-syntax-highlighting, so type:[git clone https://github.com/zsh-users/zsh-syntax-highlighting.git];
 [echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc].
 It is also reccomended to install pure-shell, so tpye: [mkdir -p "$HOME/.zsh"]; [git clone https://github.com/sindresorhus/pure.git "$HOME/.zsh/pure"]
-The source line is already present in the .zshrc.
+The source lines are already present in the .zshrc.
 ==== Made by Papuasinis Pingvinas ====
