@@ -1,6 +1,7 @@
 =========== my-zsh-config ============
 To install it: type: [git clone https://github.com/PapuasinisPingvinas/my-zsh-config.git]
 It also reccomended to install zsh-autosuggestions, so type: [git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions]
+It also reccomended to install zsh-syntax-highlighting, so type:[git clone https://github.com/zsh-users/zsh-syntax-highlighting.git];
+[echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc].
 The source line is already present in the .zshrc.
-If you don't want to use it just comment 30th line.
 ==== Made by Papuasinis Pingvinas ====
