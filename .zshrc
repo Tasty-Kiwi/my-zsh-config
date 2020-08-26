@@ -1,8 +1,9 @@
+fpath+=$HOME/.zsh/pure
 # Set up the prompt
 
 autoload -Uz promptinit
 promptinit
-prompt adam1
+prompt pure
 
 setopt histignorealldups sharehistory
 
