@@ -1,6 +1,5 @@
-fpath+=$HOME/.zsh/pure
 # Set up the prompt
-
+fpath+=$HOME/.zsh/pure
 autoload -Uz promptinit
 promptinit
 prompt pure
