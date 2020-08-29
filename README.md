@@ -1,4 +1,4 @@
-# My Zsh Config
+# My Zsh Config.
 
 To install it: type: `git clone https://github.com/PapuasinisPingvinas/my-zsh-config.git`;
 
