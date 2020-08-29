@@ -1,4 +1,4 @@
-#My Zsh Config
+# My Zsh Config
 
 To install it: type: `git clone https://github.com/PapuasinisPingvinas/my-zsh-config.git`;
 
@@ -14,4 +14,4 @@ You need to install pure-shell, so tpye: `mkdir -p "$HOME/.zsh"`; `git clone htt
 
 The source lines are already present in the .zshrc.
 
-##Made by Papuasinis Pingvinas, and under the MIT license.
+## Made by Papuasinis Pingvinas, and under the MIT license.
