@@ -8,6 +8,8 @@ You need to to install zsh-autosuggestions, so type: `git clone https://github.c
 
 You need to to install zsh-syntax-highlighting, so type:`git clone https://github.com/zsh-users/zsh-syntax-highlighting.git`;
 
+#### NOW FOR THE NEXT COMMAND YOU NEED TO USE ZSH FOR THAT!
+
 `echo "source ${(q-)PWD}/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc`.
 
 You need to install pure-shell, so tpye: `mkdir -p "$HOME/.zsh"`; `git clone https://github.com/sindresorhus/pure.git "$HOME/.zsh/pure"`.
