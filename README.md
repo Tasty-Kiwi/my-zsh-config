@@ -16,4 +16,4 @@ You need to install pure-shell, so tpye: `mkdir -p "$HOME/.zsh"`; `git clone htt
 
 The source lines are already present in the .zshrc.
 
-### Made by PapuasinisPingvinas, and under the WTFPL license.
+### Made by Tasty Kiwi, and under the WTFPL license.
